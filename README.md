@@ -42,13 +42,19 @@ Insight: A geographic breakdown of prices based on property location.
 ![image](https://github.com/user-attachments/assets/4e44d1b0-21a4-49f4-8aa6-39cc4f1876d0)
 
 
-💡 Key Insights
+💡 Recommendations
 
-Revenue Growth: Revenue trends indicate significant growth in specific years.
+ Consider Geographic Trends
+Insight: Consistently high average prices in certain areas may reflect higher-income demographics or localized demand trends.
 
-Average Pricing: Price per bedroom varies significantly across properties.
+Recommendation: Conduct further analysis to identify correlations between price trends and factors like income, population density
 
-Geographic Differences: Certain zip codes consistently report higher prices.
+Evaluate Regional Expansion
+
+Insight: Higher-priced zip codes may indicate untapped potential in surrounding areas with similar demographics.
+
+Recommendation: Explore expansion opportunities in neighboring zip codes with comparable profiles to maximize growth potential.
+
 
 
 
